@@ -1,0 +1,27 @@
+body{
+    background-color: cadetblue;
+}
+#heading{
+    text-align: center;
+    text-decoration: underline;
+}
+input, textarea{
+    width: 100%;
+    border: 1px solid black;
+    font-size: 16px;
+
+}
+label{
+    display: block;
+    font-weight: bold;
+}
+button{
+    background-color:darkgreen;
+    color: white;
+    border-radius: 5px;
+    font-size: 16px;
+}
+p{
+    font-size: 16px;
+    text-align: justify;
+}
